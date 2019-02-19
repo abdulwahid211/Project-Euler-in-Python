@@ -2,4 +2,5 @@
 My solution for Project Euler exercises in Python, https://projecteuler.net
 # Aim:
 * Learn Python 
-* solve problems from Project Euler
+* Solve problems from Project Euler
+* Practice and extend my math and programming skills,
